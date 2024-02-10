@@ -1,1 +1,1 @@
-https://flatfuzzball.github.io/
+https://tilde.team/~flat
