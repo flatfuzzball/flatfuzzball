@@ -1,1 +1,3 @@
-https://tilde.team/~flat
+# mostly moved to codeberg i think.
+fuck AI.
+https://codeberg.org/flatfuzz
